@@ -1,6 +1,6 @@
 Spotify - Clone
 Description:
-A compact web application inspired by Spotify, crafted with HTML, CSS, and JavaScript. Dive into a simplified music streaming experience where you can explore songs, create playlists, and enjoy seamless audio playback.
+A compact web application inspired by Spotify, crafted with HTML, CSS, and JavaScript. Dive into a simplified music streaming experience where you can explore songs and enjoy seamless audio playback.
 
 Key Features:
 
